@@ -1,0 +1,4 @@
+_manuscript
+.quarto
+.html
+*.out.*
